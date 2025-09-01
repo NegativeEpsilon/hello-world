@@ -1,3 +1,3 @@
 # hello-world
 
-Hello there! I am Negative Epsilon, a front-end developer in progress. I am currently learning Javascript and how to use GitHub!
+Hello there! I am Androniki,I have studied Mathematics with a focus in Applied Mathematics and Statistics and I am currently a MSc student in Greece learning Data Science.
